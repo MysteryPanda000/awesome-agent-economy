@@ -1,4 +1,4 @@
-# Awesome Agent Economy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Agent Economy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md) ![Projects](https://img.shields.io/badge/projects-35%2B-blue)
 
 <div align="center">
   <img src="banner.png" alt="Awesome Agent Economy" width="100%">
@@ -29,6 +29,8 @@
 - [Agentscan](https://agentscan.info/) - ZK-Proofレピュテーション検証付きのERC-8004エージェント検索エンジン。
 - [Beyond Identity AI Trust Layer](https://www.beyondidentity.com/products/ai-trust-layer) - デバイスバウンドIDとMCPサーバー制御によるエンタープライズ向けエージェントセキュリティ。
 
+[⬆ トップに戻る](#目次)
+
 ## 💰 決済と清算
 
 エージェントがどう支払い、どう稼ぐか。
@@ -41,6 +43,8 @@
 - [Coinbase AgentKit](https://www.coinbase.com/developer-platform/products/agentkit) - ガスレスSmart Walletトランザクション付きのAIエージェント向け暗号ウォレットツールキット。[GitHub](https://github.com/coinbase/agentkit)
 - [Fetch.ai](https://fetch.ai/) - 世界初のAI間実取引決済を実現した自律エージェントフレームワーク。
 
+[⬆ トップに戻る](#目次)
+
 ## 🤝 交渉とコマース
 
 エージェントが取引する。
@@ -50,6 +54,8 @@
 - [ACP](https://www.agenticcommerce.dev/) - OpenAIとStripeによるエージェンティックコマースプロトコル。エージェント駆動コマースのオープン仕様。[GitHub](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol)
 - [NEAR AI](https://near.ai/) - AIエージェントがタスクに入札し、NEARトークンで決済を受ける分散型マーケットプレイス。
 
+[⬆ トップに戻る](#目次)
+
 ## 📰 出版とコンテンツ
 
 エージェントがコンテンツを作り、配信する。
@@ -57,6 +63,8 @@
 - [Hum](https://hum.pub/) - skill.md統合、Trust Score、ERC-8004証明書、収益分配を備えたAI著者出版プラットフォーム。
 - [Moltbook](https://www.moltbook.com/) - Reddit風コミュニティ（Submolts）を持つAI専用ソーシャルネットワーク。150万以上のAIエージェントユーザー。
 - [Virtuals Protocol](https://www.virtuals.io/) - BaseとSolana上でコンテンツを生成・収益化するトークン化AIエージェントのローンチパッド。
+
+[⬆ トップに戻る](#目次)
 
 ## 🌐 プラットフォームとソーシャル
 
@@ -68,6 +76,8 @@
 - [SingularityNET](https://singularitynet.io/) - 分散型AIマーケットプレイス。ASI Alliance（Fetch.ai、Ocean Protocolと統合）の一部。
 - [Morpheus](https://mor.org/) - LLMをウォレット、dApps、スマートコントラクトに接続するP2Pパーソナルエージェントネットワーク。[GitHub](https://github.com/MorpheusAIs/Morpheus)
 
+[⬆ トップに戻る](#目次)
+
 ## ⭐ レピュテーションとスコアリング
 
 時間をかけて信頼を構築する。
@@ -76,6 +86,8 @@
 - [Ethereum Attestation Service](https://attest.org/) - オンチェーン・オフチェーンアテステーションのオープンプロトコル。ERC-8004レピュテーションの基盤。[GitHub](https://github.com/ethereum-attestation-service/eas-contracts)
 - [8004scan](https://www.8004scan.io/) - 「AIエージェント版Etherscan」— ERC-8004エージェント、レピュテーションスコア、リーダーボードを閲覧。AltLayer製。
 - [TrustGo](https://trustalabs.ai/trustgo) - 人間向けMEDIAスコアからAIエージェント向けSIGMAへ移行中。CelestiaとStarknetで採用。Trusta.AI製。
+
+[⬆ トップに戻る](#目次)
 
 ## 📐 標準とプロトコル
 
@@ -88,6 +100,8 @@
 - [Agentic AI Foundation](https://www.linuxfoundation.org/press/linux-foundation-announces-the-formation-of-the-agentic-ai-foundation) - MCP、goose、AGENTS.mdを統治するLinux Foundation管理ファンド。Platinumメンバー：AWS、Anthropic、Google、Microsoft、OpenAI。
 - [Goose](https://block.github.io/goose/) - BlockによるオープンソースAIエージェントフレームワーク。AAIFガバナンス下のMCPリファレンス実装。[GitHub](https://github.com/block/goose)
 
+[⬆ トップに戻る](#目次)
+
 ## 🛠️ エージェントフレームワーク
 
 経済的エージェントを構築するためのインフラ。
@@ -97,6 +111,8 @@
 - [Autonolas](https://olas.network/) - コンポーザブルサービスによるオンチェーン自律エージェントサービスプロトコル。[GitHub](https://github.com/valory-xyz)
 - [Bittensor](https://bittensor.com/) - 129以上のサブネットで異なるAIタスクを処理する分散型AIネットワーク。[GitHub](https://github.com/opentensor/bittensor)
 - [Ocean Protocol](https://oceanprotocol.com/) - プライバシー保護推論のためのCompute-to-Data付き分散型AIデータマーケットプレイス。
+
+[⬆ トップに戻る](#目次)
 
 ## コントリビュート
 

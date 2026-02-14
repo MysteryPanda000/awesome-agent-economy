@@ -1,4 +1,4 @@
-# Awesome Agent Economy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Agent Economy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md) ![Projects](https://img.shields.io/badge/projects-35%2B-blue)
 
 <div align="center">
   <img src="banner.png" alt="Awesome Agent Economy" width="100%">
@@ -29,6 +29,8 @@
 - [Agentscan](https://agentscan.info/) - 支持ZK-Proof信誉验证的ERC-8004智能体搜索引擎。
 - [Beyond Identity AI Trust Layer](https://www.beyondidentity.com/products/ai-trust-layer) - 基于设备绑定身份和MCP服务器控制的企业级智能体安全方案。
 
+[⬆ 回到顶部](#目录)
+
 ## 💰 支付与清算
 
 智能体如何支付和获得收入。
@@ -41,6 +43,8 @@
 - [Coinbase AgentKit](https://www.coinbase.com/developer-platform/products/agentkit) - 为AI智能体提供免Gas费Smart Wallet交易的加密钱包工具包。[GitHub](https://github.com/coinbase/agentkit)
 - [Fetch.ai](https://fetch.ai/) - 实现了全球首笔AI间真实世界支付的自主智能体框架。
 
+[⬆ 回到顶部](#目录)
+
 ## 🤝 协商与商务
 
 智能体进行交易。
@@ -50,6 +54,8 @@
 - [ACP](https://www.agenticcommerce.dev/) - OpenAI和Stripe推出的智能体商务协议。智能体驱动商务的开放规范。[GitHub](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol)
 - [NEAR AI](https://near.ai/) - 去中心化市场，AI智能体在此竞标任务并以NEAR代币结算。
 
+[⬆ 回到顶部](#目录)
+
 ## 📰 出版与内容
 
 智能体创作和分发内容。
@@ -57,6 +63,8 @@
 - [Hum](https://hum.pub/) - AI作者出版平台，集成skill.md、Trust Score、ERC-8004证书和收益分成。
 - [Moltbook](https://www.moltbook.com/) - AI专属社交网络，拥有Reddit风格的社区（Submolts）。150万+AI智能体用户。
 - [Virtuals Protocol](https://www.virtuals.io/) - 在Base和Solana上生成和变现内容的代币化AI智能体发射台。
+
+[⬆ 回到顶部](#目录)
 
 ## 🌐 平台与社交
 
@@ -68,6 +76,8 @@
 - [SingularityNET](https://singularitynet.io/) - 去中心化AI市场。ASI联盟成员（与Fetch.ai和Ocean Protocol合并）。
 - [Morpheus](https://mor.org/) - 将LLM连接到钱包、dApp和智能合约的点对点个人AI智能体网络。[GitHub](https://github.com/MorpheusAIs/Morpheus)
 
+[⬆ 回到顶部](#目录)
+
 ## ⭐ 信誉与评分
 
 随时间建立信任。
@@ -76,6 +86,8 @@
 - [Ethereum Attestation Service](https://attest.org/) - 链上和链下证明的开放协议。ERC-8004信誉的基础。[GitHub](https://github.com/ethereum-attestation-service/eas-contracts)
 - [8004scan](https://www.8004scan.io/) - 「AI智能体版Etherscan」——浏览ERC-8004智能体、信誉分数和排行榜。AltLayer出品。
 - [TrustGo](https://trustalabs.ai/trustgo) - 从人类MEDIA评分向AI智能体SIGMA过渡。被Celestia和Starknet采用。Trusta.AI出品。
+
+[⬆ 回到顶部](#目录)
 
 ## 📐 标准与协议
 
@@ -88,6 +100,8 @@
 - [Agentic AI Foundation](https://www.linuxfoundation.org/press/linux-foundation-announces-the-formation-of-the-agentic-ai-foundation) - Linux Foundation管理的基金，治理MCP、goose和AGENTS.md。白金会员：AWS、Anthropic、Google、Microsoft、OpenAI。
 - [Goose](https://block.github.io/goose/) - Block推出的开源AI智能体框架。AAIF治理下的MCP参考实现。[GitHub](https://github.com/block/goose)
 
+[⬆ 回到顶部](#目录)
+
 ## 🛠️ 智能体框架
 
 构建经济智能体的基础设施。
@@ -97,6 +111,8 @@
 - [Autonolas](https://olas.network/) - 链上自主智能体服务协议。基于可组合服务的多智能体系统。[GitHub](https://github.com/valory-xyz)
 - [Bittensor](https://bittensor.com/) - 拥有129+子网处理不同AI任务的去中心化AI网络。[GitHub](https://github.com/opentensor/bittensor)
 - [Ocean Protocol](https://oceanprotocol.com/) - AI去中心化数据市场，通过Compute-to-Data实现隐私保护推理。
+
+[⬆ 回到顶部](#目录)
 
 ## 贡献
 

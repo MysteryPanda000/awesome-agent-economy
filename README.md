@@ -1,4 +1,4 @@
-# Awesome Agent Economy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Agent Economy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md) ![Projects](https://img.shields.io/badge/projects-35%2B-blue)
 
 <div align="center">
   <img src="banner.png" alt="Awesome Agent Economy" width="100%">
@@ -29,6 +29,8 @@ Verifying who (or what) an agent is.
 - [Agentscan](https://agentscan.info/) - ERC-8004 agent search engine with ZK-Proof reputation verification.
 - [Beyond Identity AI Trust Layer](https://www.beyondidentity.com/products/ai-trust-layer) - Enterprise agent security with device-bound identity and MCP server control.
 
+[⬆ Back to top](#contents)
+
 ## 💰 Payments and Settlement
 
 How agents pay and get paid.
@@ -41,6 +43,8 @@ How agents pay and get paid.
 - [Coinbase AgentKit](https://www.coinbase.com/developer-platform/products/agentkit) - Toolkit giving AI agents a crypto wallet with gasless Smart Wallet transactions. [GitHub](https://github.com/coinbase/agentkit)
 - [Fetch.ai](https://fetch.ai/) - Autonomous agent framework with the world's first AI-to-AI real-world payment.
 
+[⬆ Back to top](#contents)
+
 ## 🤝 Negotiation and Commerce
 
 Agents making deals.
@@ -50,6 +54,8 @@ Agents making deals.
 - [ACP](https://www.agenticcommerce.dev/) - Agentic Commerce Protocol by OpenAI and Stripe. Open spec for agent-driven commerce. [GitHub](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol)
 - [NEAR AI](https://near.ai/) - Decentralized marketplace where AI agents bid on tasks and receive settlement in NEAR tokens.
 
+[⬆ Back to top](#contents)
+
 ## 📰 Publishing and Content
 
 Agents creating and distributing content.
@@ -57,6 +63,8 @@ Agents creating and distributing content.
 - [Hum](https://hum.pub/) - AI author publishing platform with skill.md integration, Trust Score, ERC-8004 certs, and revenue sharing.
 - [Moltbook](https://www.moltbook.com/) - AI-only social network with Reddit-like communities (Submolts). 1.5M+ AI agent users.
 - [Virtuals Protocol](https://www.virtuals.io/) - Launchpad for tokenized AI agents that generate and monetize content on Base and Solana.
+
+[⬆ Back to top](#contents)
 
 ## 🌐 Platforms and Social
 
@@ -68,6 +76,8 @@ Where agents live and interact.
 - [SingularityNET](https://singularitynet.io/) - Decentralized AI marketplace. Part of the ASI Alliance (merged with Fetch.ai and Ocean Protocol).
 - [Morpheus](https://mor.org/) - Peer-to-peer network of personal AI agents connecting LLMs to wallets, dApps, and smart contracts. [GitHub](https://github.com/MorpheusAIs/Morpheus)
 
+[⬆ Back to top](#contents)
+
 ## ⭐ Reputation and Scoring
 
 Building trust over time.
@@ -76,6 +86,8 @@ Building trust over time.
 - [Ethereum Attestation Service](https://attest.org/) - Open protocol for on-chain and off-chain attestations. Foundation for ERC-8004 reputation. [GitHub](https://github.com/ethereum-attestation-service/eas-contracts)
 - [8004scan](https://www.8004scan.io/) - "Etherscan for AI Agents" — browse ERC-8004 agents, reputation scores, and leaderboards. By AltLayer.
 - [TrustGo](https://trustalabs.ai/trustgo) - MEDIA score for humans transitioning to SIGMA for AI agents. Used by Celestia and Starknet. By Trusta.AI.
+
+[⬆ Back to top](#contents)
 
 ## 📐 Standards and Protocols
 
@@ -88,6 +100,8 @@ The plumbing that makes it all work.
 - [Agentic AI Foundation](https://www.linuxfoundation.org/press/linux-foundation-announces-the-formation-of-the-agentic-ai-foundation) - Linux Foundation directed fund governing MCP, goose, and AGENTS.md. Platinum members: AWS, Anthropic, Google, Microsoft, OpenAI.
 - [Goose](https://block.github.io/goose/) - Open source AI agent framework by Block. Reference MCP implementation under AAIF governance. [GitHub](https://github.com/block/goose)
 
+[⬆ Back to top](#contents)
+
 ## 🛠️ Agent Frameworks
 
 Infrastructure for building economic agents.
@@ -97,6 +111,8 @@ Infrastructure for building economic agents.
 - [Autonolas](https://olas.network/) - Protocol for autonomous agent services on-chain. Multi-agent systems with composable services. [GitHub](https://github.com/valory-xyz)
 - [Bittensor](https://bittensor.com/) - Decentralized AI network with 129+ subnets for different AI tasks. [GitHub](https://github.com/opentensor/bittensor)
 - [Ocean Protocol](https://oceanprotocol.com/) - Decentralized data marketplace for AI with Compute-to-Data for privacy-preserving inference.
+
+[⬆ Back to top](#contents)
 
 ## Contributing
 
