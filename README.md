@@ -4,20 +4,22 @@
   <img src="banner.png" alt="Awesome Agent Economy" width="100%">
   <br><br>
   <p>A curated list of projects, protocols, and platforms powering the emerging AI agent economy — where agents earn, trade, prove identity, and build reputation.</p>
+  <br>
+  <b>English</b> | <a href="README.ja.md">日本語</a> | <a href="README.zh-CN.md">中文</a>
 </div>
 
 ## Contents
 
-- [Identity and Trust](#identity-and-trust)
-- [Payments and Settlement](#payments-and-settlement)
-- [Negotiation and Commerce](#negotiation-and-commerce)
-- [Publishing and Content](#publishing-and-content)
-- [Platforms and Social](#platforms-and-social)
-- [Reputation and Scoring](#reputation-and-scoring)
-- [Standards and Protocols](#standards-and-protocols)
-- [Agent Frameworks](#agent-frameworks)
+- [🔐 Identity and Trust](#-identity-and-trust)
+- [💰 Payments and Settlement](#-payments-and-settlement)
+- [🤝 Negotiation and Commerce](#-negotiation-and-commerce)
+- [📰 Publishing and Content](#-publishing-and-content)
+- [🌐 Platforms and Social](#-platforms-and-social)
+- [⭐ Reputation and Scoring](#-reputation-and-scoring)
+- [📐 Standards and Protocols](#-standards-and-protocols)
+- [🛠️ Agent Frameworks](#️-agent-frameworks)
 
-## Identity and Trust
+## 🔐 Identity and Trust
 
 Verifying who (or what) an agent is.
 
@@ -27,7 +29,7 @@ Verifying who (or what) an agent is.
 - [Agentscan](https://agentscan.info/) - ERC-8004 agent search engine with ZK-Proof reputation verification.
 - [Beyond Identity AI Trust Layer](https://www.beyondidentity.com/products/ai-trust-layer) - Enterprise agent security with device-bound identity and MCP server control.
 
-## Payments and Settlement
+## 💰 Payments and Settlement
 
 How agents pay and get paid.
 
@@ -39,7 +41,7 @@ How agents pay and get paid.
 - [Coinbase AgentKit](https://www.coinbase.com/developer-platform/products/agentkit) - Toolkit giving AI agents a crypto wallet with gasless Smart Wallet transactions. [GitHub](https://github.com/coinbase/agentkit)
 - [Fetch.ai](https://fetch.ai/) - Autonomous agent framework with the world's first AI-to-AI real-world payment.
 
-## Negotiation and Commerce
+## 🤝 Negotiation and Commerce
 
 Agents making deals.
 
@@ -48,7 +50,7 @@ Agents making deals.
 - [ACP](https://www.agenticcommerce.dev/) - Agentic Commerce Protocol by OpenAI and Stripe. Open spec for agent-driven commerce. [GitHub](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol)
 - [NEAR AI](https://near.ai/) - Decentralized marketplace where AI agents bid on tasks and receive settlement in NEAR tokens.
 
-## Publishing and Content
+## 📰 Publishing and Content
 
 Agents creating and distributing content.
 
@@ -56,7 +58,7 @@ Agents creating and distributing content.
 - [Moltbook](https://www.moltbook.com/) - AI-only social network with Reddit-like communities (Submolts). 1.5M+ AI agent users.
 - [Virtuals Protocol](https://www.virtuals.io/) - Launchpad for tokenized AI agents that generate and monetize content on Base and Solana.
 
-## Platforms and Social
+## 🌐 Platforms and Social
 
 Where agents live and interact.
 
@@ -66,7 +68,7 @@ Where agents live and interact.
 - [SingularityNET](https://singularitynet.io/) - Decentralized AI marketplace. Part of the ASI Alliance (merged with Fetch.ai and Ocean Protocol).
 - [Morpheus](https://mor.org/) - Peer-to-peer network of personal AI agents connecting LLMs to wallets, dApps, and smart contracts. [GitHub](https://github.com/MorpheusAIs/Morpheus)
 
-## Reputation and Scoring
+## ⭐ Reputation and Scoring
 
 Building trust over time.
 
@@ -75,7 +77,7 @@ Building trust over time.
 - [8004scan](https://www.8004scan.io/) - "Etherscan for AI Agents" — browse ERC-8004 agents, reputation scores, and leaderboards. By AltLayer.
 - [TrustGo](https://trustalabs.ai/trustgo) - MEDIA score for humans transitioning to SIGMA for AI agents. Used by Celestia and Starknet. By Trusta.AI.
 
-## Standards and Protocols
+## 📐 Standards and Protocols
 
 The plumbing that makes it all work.
 
@@ -86,7 +88,7 @@ The plumbing that makes it all work.
 - [Agentic AI Foundation](https://www.linuxfoundation.org/press/linux-foundation-announces-the-formation-of-the-agentic-ai-foundation) - Linux Foundation directed fund governing MCP, goose, and AGENTS.md. Platinum members: AWS, Anthropic, Google, Microsoft, OpenAI.
 - [Goose](https://block.github.io/goose/) - Open source AI agent framework by Block. Reference MCP implementation under AAIF governance. [GitHub](https://github.com/block/goose)
 
-## Agent Frameworks
+## 🛠️ Agent Frameworks
 
 Infrastructure for building economic agents.
 
